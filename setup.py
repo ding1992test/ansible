@@ -308,6 +308,5 @@ def main():
     setup(**setup_params)
     warnings.resetwarnings()
 
-
-if __name__ == '__main__':
-    main()
+    
+main()
